@@ -1,2 +1,2 @@
 # Jogo-da-Velha-
-Meu primeiro jogo feito do zero com HTML, JS e CSS
+Jogo da velha feito com HTML, JS e CSS

@@ -61,6 +61,7 @@ A junção de linhas e colunas formam uma grade, o que dá o nome a esse sistema
 Botões:
 Reiniciar 
 
+<<<<<<< HEAD
 HTML
 
 <!DOCTYPE html>
@@ -366,3 +367,6 @@ startGame();
 
 restartButton.addEventListener("click", startGame);
                 
+=======
+
+>>>>>>> ea67b6f773b56c4a03882de96e58b10178485fa2
